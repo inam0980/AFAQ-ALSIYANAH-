@@ -1,0 +1,14 @@
+# Uploads Directory
+# This folder contains user-uploaded files
+# Ensure proper permissions: 755 or 777
+
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.pdf
+*.doc
+*.docx
+
+# Keep this file to maintain directory structure
+!.gitkeep
